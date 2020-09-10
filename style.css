@@ -10,7 +10,7 @@ body {
     font-family: 'Alegreya', serif;
 }
 
-/*get rid of default margin and paddind*/
+/*get rid of default margin and padding*/
 * {
     margin: 0;
     padding: 0;
